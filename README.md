@@ -1,6 +1,6 @@
 ## Hi, Welcome my profile 👋
 
-![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=fuhouyu&theme=ambient_gradient))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuhouyu&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **fuhouyu/fuhouyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
